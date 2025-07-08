@@ -1,9 +1,7 @@
 name: Metrics
 
 on:
-  # Run once a day
   schedule: [{ cron: "0 0 * * *" }]
-  # Or run manually
   workflow_dispatch:
 
 jobs:
@@ -13,12 +11,9 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Basic config
           user: t0ll1v3r
           template: classic
           base: ""
           plugin_isocalendar: yes
-          plugin_languages: yes
