@@ -17,3 +17,24 @@ jobs:
           template: classic
           base: ""
           plugin_isocalendar: yes
+
+name: Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'         # every night at 00:00 UTC
+  workflow_dispatch:            # manual trigger in Actions tab
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          #–– core settings
+          user: t0ll1v3r
+          template: classic
+          plugin_isocalendar: yes
