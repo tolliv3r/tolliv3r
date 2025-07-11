@@ -18,3 +18,12 @@ jobs:
           user: t0ll1v3r
           template: classic
           plugin_isocalendar: yes
+
+          plugin_overview: yes
+          plugin_languages: yes
+          plugin_repositories: yes
+          
+          plugin_stars: no
+          plugin_issues: no
+          plugin_pull_requests: no
+          plugin_commit_activity: no
