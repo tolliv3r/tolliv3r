@@ -17,3 +17,5 @@ I'm currently pursuing a **B.S.** in **Computer Engineering** at **Boston Univer
 
 [![Top Langs - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=t0ll1v3r&hide=Makefile&card_width=1000&theme=omni#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=t0ll1v3r&hide=Makefile&card_width=1000&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+![Isometric Activity](https://github.com/t0ll1v3r/t0ll1v3r/raw/master/github-metrics.svg)
