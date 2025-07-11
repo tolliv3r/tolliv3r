@@ -21,9 +21,8 @@ jobs:
 
           plugin_isocalendar: yes
           plugin_overview: yes
-          plugin_repositories: yes
-          plugin_repositories_featured: t0ll1v3r/USB_HID_CompositeImplementation, t0ll1v3r/ActuatedFoodCutter, t0ll1v3r/EC413, t0ll1v3r/EC330
           
+          plugin_repositories: no
           plugin_stars: no
           plugin_issues: no
           plugin_pull_requests: no
