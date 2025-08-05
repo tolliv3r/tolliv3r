@@ -5,7 +5,7 @@ I'm currently pursuing a **B.S.** in **Computer Engineering** at **Boston Univer
 ### Technical Skills
 - **Best Languages:** C/C++, Python, Verilog
 - **Functional Languages:** Go, Swift, Javascript, Assembly, VHDL
-- **Frameworks & Tools:** Git, VS Code, FPGA (Xilinx Vivado), Arduino, STM32
+- **Frameworks & Tools:** Git, VS Code, FPGA (Xilinx Vivado), Microchip (ATMEL) Studio, Arduino, STM32
 
 ### Socials
 
