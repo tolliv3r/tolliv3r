@@ -1,6 +1,6 @@
 ## Hi! My name is Jackson Clary, welcome to my Github! ![Isometric Activity](https://github.com/t0ll1v3r/t0ll1v3r/blob/main/github-metrics.svg)
 
-I'm currently pursuing a **B.S.** in **Computer Engineering** at **Boston University** (Class of 2026), specializing in **Embedded Systems**, **HDL Programming (Verilog/VHDL)**, and **VLSI Circuit Design**. I also have a background in solid-state physics, focusing on semiconductor design. Passionate about building efficient and innovative hardware-software solutions, I'm always eager to dive deep into projects involving FPGA programming, microcontrollers, and end-to-end software systems that bridge embedded hardware with full-stack applications.
+I'm currently pursuing a **B.S.** in **Computer Engineering** at **Boston University** (Class of 2026), specializing in **Embedded Systems**, **HDL Programming (Verilog/VHDL)**, and **VLSI Circuit Design**. I also have a background in solid-state physics, focusing on semiconductor design. Passionate about building efficient and innovative hardware-software solutions, I'm always eager to dive deep into projects involving FPGA programming, microcontrollers, and/or end-to-end software systems that bridge embedded hardware with full-stack applications.
 
 ### Technical Skills
 - **Best Languages:** C/C++, Python, Verilog
