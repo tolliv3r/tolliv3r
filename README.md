@@ -10,7 +10,7 @@ I'm currently pursuing a **B.S.** in **Computer Engineering** at **Boston Univer
 ### Socials
 
 [![Email](https://img.shields.io/badge/Email-tolliv3r@icloud.com-red?logo=gmail&logoColor=white)](mailto:tolliv3r@icloud.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-@tolliv3r-181717?logo=github&logoColor=white)](https://github.com/t0ll1v3r)  
+[![GitHub](https://img.shields.io/badge/GitHub-@tolliv3r-181717?logo=github&logoColor=white)](https://github.com/tolliv3r)  
 [![Instagram](https://img.shields.io/badge/Instagram-@lamblord1738-purple?logo=instagram&logoColor=white)](https://instagram.com/lamblord1738)
 
 ### GitHub Stats
