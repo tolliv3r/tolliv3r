@@ -11,6 +11,7 @@ I'm currently pursuing a **B.S.** in **Computer Engineering** at **Boston Univer
 
 [![Email](https://img.shields.io/badge/Email-tolliv3r@icloud.com-red?logo=gmail&logoColor=white)](mailto:tolliv3r@icloud.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-@tolliv3r-181717?logo=github&logoColor=white)](https://github.com/tolliv3r)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jackson%20Clary-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson--clary/)  
 [![Instagram](https://img.shields.io/badge/Instagram-@lamblord1738-purple?logo=instagram&logoColor=white)](https://instagram.com/lamblord1738)
 
 ### GitHub Stats
